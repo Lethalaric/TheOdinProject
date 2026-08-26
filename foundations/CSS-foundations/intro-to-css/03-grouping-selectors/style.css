@@ -1,0 +1,17 @@
+.main-class,
+.first-class {
+    font-size: 25px;
+}
+
+.main-class,
+.second-class {
+    color: blue;
+}
+
+.second-class {
+    font-size: 8px;
+}
+
+.first-class {
+    color: red;
+}

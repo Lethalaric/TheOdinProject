@@ -1,0 +1,11 @@
+.section1 {
+    color: red;
+}
+
+.section1 .description {
+    color: blue;
+}
+
+.description {
+    color: green;
+}

@@ -1,0 +1,17 @@
+.course {
+    color: yellow;
+}
+
+.section1 {
+    color: red;
+}
+
+.section1.hello {
+    color: blue;
+    font-size: 25px;
+}
+
+.section1#paragraph1 {
+    color: green;
+    font-size: 8px;
+}
