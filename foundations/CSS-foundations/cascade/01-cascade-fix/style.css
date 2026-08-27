@@ -1,0 +1,29 @@
+.bold-paragraph {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.bold-paragraph.small-size {
+    font-size: 18px;
+}
+
+.thin-div {
+    font-weight: light;
+}
+
+.thin-div .small-size.bold-paragraph {
+    font-size: 12px;
+}
+
+.thin-div .bold-paragraph {
+    font-size: 20px;
+}
+
+button {
+    background-color: transparent;
+}
+
+.confirm-button {
+    background-color: green;
+    color: white;
+}
